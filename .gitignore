@@ -1,1 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
 venv/
+.env
+
+# AWS credentials
+.aws/
+*.pem
+
+# VSCode settings
+.vscode/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+# Logs or temporary files
+*.log
+*.tmp
